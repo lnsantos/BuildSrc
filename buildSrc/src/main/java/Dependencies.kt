@@ -7,4 +7,7 @@ object Dependencies {
     const val constraintLayout = "androidx.constraintlayout:constraintlayout:${Versions.constraintLayout}"
     const val classPathKotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:${Versions.kotlin}"
     const val classPathGradle = "com.android.tools.build:gradle:${Versions.gradle}"
+
+    const val lottie = "com.airbnb.android:lottie:${Versions.lottie}"
+
 }

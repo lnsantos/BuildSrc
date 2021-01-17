@@ -46,6 +46,8 @@ dependencies {
     implementation Dependencies.materialDesign
     implementation Dependencies.constraintLayout
 
+    implementation Dependencies.lottie
+
     // Dependencies test
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'

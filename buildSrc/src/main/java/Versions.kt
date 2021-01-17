@@ -6,4 +6,5 @@ object Versions {
    const val appCompat = "1.2.0"
    const val materialDesign = "1.2.1"
    const val constraintLayout = "2.0.4"
+   const val lottie = "3.4.0"
 }
