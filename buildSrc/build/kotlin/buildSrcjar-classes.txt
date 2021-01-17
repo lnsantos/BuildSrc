@@ -1,0 +1,1 @@
+C:\Users\MAIN\Desktop\OpenWay\buildSrc\build\classes\kotlin\main\AndroidConfig.class;C:\Users\MAIN\Desktop\OpenWay\buildSrc\build\classes\kotlin\main\Dependencies.class;C:\Users\MAIN\Desktop\OpenWay\buildSrc\build\classes\kotlin\main\Versions.class
